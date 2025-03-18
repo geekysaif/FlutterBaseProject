@@ -69,9 +69,20 @@ lib/
 Feel free to fork and contribute to the project.
 
 ## Contributors ✨
-- Your Name (@yourgithub)
-- Contributor 2 (@githubhandle)
-- Contributor 3 (@githubhandle)
+- Mohd Saif Alam (@geekysaif)
 
-If you would like to contribute, please submit a pull request!
+## Screenshots 📸
+
+### API DATA Screen
+![Home Screen](assets/screenshots/screen1.png)
+
+### LOCAL JSON FILE DATA Page
+![Settings Page](assets/screenshots/screen2.png)
+
+### WEBVIEW Page
+![Settings Page](assets/screenshots/screen3.png)
+
+### PROFILE Page
+![Settings Page](assets/screenshots/screen4.png)
+ 
 
