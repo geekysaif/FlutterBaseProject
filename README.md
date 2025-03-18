@@ -19,8 +19,8 @@ This is a Flutter base project that includes essential features such as state ma
 ## Installation ⚙️
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <project_directory>
+   git clone <https://github.com/geekysaif/FlutterBaseProject.git>
+    
    ```
 2. Install dependencies:
    ```sh
