@@ -73,16 +73,22 @@ Feel free to fork and contribute to the project.
 
 ## Screenshots 📸
 
-### API DATA Screen
-<img src="assets/images/screen1.png" width="300"> 
+### API DATA, LOCAL JSON FILE DATA, WEBVIEW, and PROFILE Screens
 
-### LOCAL JSON FILE DATA Page
-<img src="assets/images/screen2.png" width="300"> 
+<table>
+  <tr>
+    <td><img src="assets/images/screen1.png" width="250"></td>
+    <td><img src="assets/images/screen2.png" width="250"></td>
+    <td><img src="assets/images/screen3.png" width="250"></td>
+    <td><img src="assets/images/screen4.png" width="250"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>API DATA Screen</b></td>
+    <td align="center"><b>LOCAL JSON FILE DATA Page</b></td>
+    <td align="center"><b>WEBVIEW Page</b></td>
+    <td align="center"><b>PROFILE Page</b></td>
+  </tr>
+</table>
 
-### WEBVIEW Page
-<img src="assets/images/screen3.png" width="300"> 
-
-### PROFILE Page
-<img src="assets/images/screen4.png" width="300"> 
  
 
