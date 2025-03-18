@@ -1,0 +1,1 @@
+/Users/geekysaif/AndroidStudioProjects/FLUTTER PROJECTS/flutterbaseproject/build/app/intermediates/cxx/Debug/ci58634j/obj/armeabi-v7a

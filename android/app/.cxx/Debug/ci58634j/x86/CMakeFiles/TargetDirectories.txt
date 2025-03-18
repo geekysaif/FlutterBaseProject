@@ -1,0 +1,2 @@
+/Users/geekysaif/AndroidStudioProjects/FLUTTER PROJECTS/flutterbaseproject/android/app/.cxx/Debug/ci58634j/x86/CMakeFiles/edit_cache.dir
+/Users/geekysaif/AndroidStudioProjects/FLUTTER PROJECTS/flutterbaseproject/android/app/.cxx/Debug/ci58634j/x86/CMakeFiles/rebuild_cache.dir

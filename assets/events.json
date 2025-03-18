@@ -1,0 +1,126 @@
+{
+  "status": "success",
+  "message": "Events loaded successfully",
+  "events": [
+    {
+      "date": "Oct 11 - 13, 2025",
+      "time_durations": "10:00 AM - 12:00 PM",
+      "location": "Conference Hall A, City Center",
+      "title": "Future of AI in Healthcare",
+      "speaker_image": "https://example.com/speakers/john_doe.jpg",
+      "speaker_name": "John Doe",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.8,
+      "seats_availability": "Filling Fast!",
+      "sorting_date": "2025-10-11"
+    },
+    {
+      "date": "Oct 14 - 16, 2025",
+      "time_durations": "02:00 PM - 04:00 PM",
+      "location": "Room 101, Tech Park",
+      "title": "Blockchain and Beyond",
+      "speaker_image": "https://example.com/speakers/jane_smith.jpg",
+      "speaker_name": "Jane Smith",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.5,
+      "seats_availability": "Early Bird!",
+      "sorting_date": "2025-10-14"
+    },
+    {
+      "date": "Oct 17 - 19, 2025",
+      "time_durations": "11:00 AM - 01:00 PM",
+      "location": "Main Auditorium, Downtown",
+      "title": "Advancements in Renewable Energy",
+      "speaker_image": "https://example.com/speakers/alex_jones.jpg",
+      "speaker_name": "Alex Jones",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.9,
+      "seats_availability": "Filling Fast!",
+      "sorting_date": "2025-10-17"
+    },
+    {
+      "date": "Oct 20 - 22, 2025",
+      "time_durations": "03:00 PM - 05:00 PM",
+      "location": "Hall B, Innovation Center",
+      "title": "Cybersecurity Trends in 2025",
+      "speaker_image": "https://example.com/speakers/emily_wang.jpg",
+      "speaker_name": "Emily Wang",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.7,
+      "seats_availability": "10 Seats Available!",
+      "sorting_date": "2025-10-20"
+    },
+    {
+      "date": "Oct 23 - 25, 2025",
+      "time_durations": "01:00 PM - 03:00 PM",
+      "location": "Room 202, Innovation Hub",
+      "title": "The Future of Space Exploration",
+      "speaker_image": "https://example.com/speakers/susan_clark.jpg",
+      "speaker_name": "Susan Clark",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.6,
+      "seats_availability": "Newly Added!",
+      "sorting_date": "2025-10-23"
+    },
+    {
+      "date": "Oct 26 - 28, 2025",
+      "time_durations": "09:00 AM - 11:00 AM",
+      "location": "Conference Hall C, City Square",
+      "title": "Green Technologies and Sustainability",
+      "speaker_image": "https://example.com/speakers/michael_brown.jpg",
+      "speaker_name": "Michael Brown",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.3,
+      "seats_availability": "Premium Event!",
+      "sorting_date": "2025-10-26"
+    },
+    {
+      "date": "Oct 29 - 31, 2025",
+      "time_durations": "02:30 PM - 04:30 PM",
+      "location": "Room 303, Tech Park",
+      "title": "The Future of Quantum Computing",
+      "speaker_image": "https://example.com/speakers/chloe_lee.jpg",
+      "speaker_name": "Chloe Lee",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.8,
+      "seats_availability": "Filling Fast!",
+      "sorting_date": "2025-10-29"
+    },
+    {
+      "date": "Nov 1 - 3, 2025",
+      "time_durations": "10:00 AM - 12:00 PM",
+      "location": "Room 404, City Center",
+      "title": "Robotics in Everyday Life",
+      "speaker_image": "https://example.com/speakers/david_martin.jpg",
+      "speaker_name": "David Martin",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.4,
+      "seats_availability": "Filling Fast!",
+      "sorting_date": "2025-11-01"
+    },
+    {
+      "date": "Nov 5 - 7, 2025",
+      "time_durations": "04:00 PM - 06:00 PM",
+      "location": "Room 505, Innovation Center",
+      "title": "AI in Business and Marketing",
+      "speaker_image": "https://example.com/speakers/lisa_williams.jpg",
+      "speaker_name": "Lisa Williams",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.9,
+      "seats_availability": "Filling Fast!",
+      "sorting_date": "2025-11-05"
+    },
+    {
+      "date": "Nov 8 - 10, 2025",
+      "time_durations": "06:00 PM - 08:00 PM",
+      "location": "Main Auditorium, Downtown",
+      "title": "Virtual Reality and Augmented Reality",
+      "speaker_image": "https://example.com/speakers/robert_jones.jpg",
+      "speaker_name": "Robert Jones",
+      "sponsor_name": "Helen Gribble",
+      "rating": 4.7,
+      "seats_availability": "Filling Fast!",
+      "sorting_date": "2025-11-08"
+    }
+  ]
+}
