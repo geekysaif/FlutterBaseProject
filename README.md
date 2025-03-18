@@ -74,15 +74,15 @@ Feel free to fork and contribute to the project.
 ## Screenshots 📸
 
 ### API DATA Screen
-![Home Screen](assets/images/screen1.png)
+<img src="assets/images/screen1.png" width="300"> 
 
 ### LOCAL JSON FILE DATA Page
-![Settings Page](assets/images/screen2.png)
+<img src="assets/images/screen2.png" width="300"> 
 
 ### WEBVIEW Page
-![Settings Page](assets/images/screen3.png)
+<img src="assets/images/screen3.png" width="300"> 
 
 ### PROFILE Page
-![Settings Page](assets/images/screen4.png)
+<img src="assets/images/screen4.png" width="300"> 
  
 
